@@ -1,0 +1,407 @@
+Fecha,Destino,Edad,Ingresos,Zona geografica,Perfil,Plazo,Cuota,class
+22/03/2024,Refaccion y construccion de vivienda,45,2000000,Buenos Aires,A,6,1,Al dia
+18/03/2024,Decoracion,40,5000000,La Pampa,AA,6,1,Al dia
+21/02/2024,Refaccion y construccion de vivienda,52,935000,Rio Negro,AA,18,1,Al dia
+19/02/2024,Viaje,70,450000,Corrientes,AA,18,1,Al dia
+06/02/2024,Refaccion y construccion de vivienda,57,326000,Buenos Aires,C,6,1,Al dia
+01/02/2024,Refaccion y construccion de vivienda,49,520000,Buenos Aires,C,18,2,Al dia
+29/01/2024,Refaccion y construccion de vivienda,50,530000,Ciudad de Buenos Aires,B,6,1,Al dia
+25/01/2024,Viaje,20,430000,Buenos Aires,C,6,1,Al dia
+19/01/2024,Viaje,56,500000,Buenos Aires,C,18,2,Al dia
+05/01/2024,Gastos medicos,58,545970,Buenos Aires,C,12,2,Al dia
+29/12/2023,Refaccion y construccion de vivienda,35,350000,Buenos Aires,AA,6,3,Al dia
+28/12/2023,Refaccion y construccion de vivienda,29,650000,Ciudad de Buenos Aires,A,6,2,+30 dias
+19/12/2023,Decoracion,38,743794,Santa Cruz,AA,6,3,Al dia
+22/11/2023,Refaccion y construccion de vivienda,51,600000,Cordoba,AA,6,4,Al dia
+15/11/2023,Celebracion,51,330000,Salta,B,6,4,Al dia
+10/11/2023,Celebracion,44,1300000,Santa Cruz,AA,12,4,+90 dias
+07/11/2023,Refaccion y construccion de vivienda,45,600000,Buenos Aires,AA,12,4,Al dia
+19/10/2023,Prestamos Verdes - Eficiencia Energetica,44,1100000,Neuquen,AA,6,5,Al dia
+17/10/2023,Viaje,31,600000,Chubut,B,6,5,+120 dias
+11/10/2023,Viaje,32,598000,Santa Cruz,AA,12,5,Al dia
+10/10/2023,Viaje,54,230000,Santa Fe,C,6,5,Al dia
+20/09/2023,Refaccion y construccion de vivienda,43,700000,Salta,C,6,5,Al dia
+13/09/2023,Refaccion y construccion de vivienda,30,500000,Buenos Aires,AA,12,6,Al dia
+08/09/2023,Refaccion y construccion de vivienda,53,500000,Rio Negro,A,12,6,Al dia
+01/09/2023,Viaje,50,350000,Buenos Aires,AA,12,6,Al dia
+31/08/2023,Cambio de vehiculo,49,900000,Buenos Aires,AA,12,7,Al dia
+31/08/2023,Refaccion y construccion de vivienda,49,150000,Ciudad de Buenos Aires,AA,18,6,Al dia
+30/08/2023,Prestamos Verdes - Eficiencia Energetica,41,1230000,Catamarca,A,18,6,Al dia
+16/08/2023,Refaccion y construccion de vivienda,54,480000,Buenos Aires,AA,18,7,Al dia
+14/08/2023,Viaje,55,450000,Buenos Aires,AA,12,7,+180 dias
+07/08/2023,Viaje,47,700000,San Juan,AA,12,7,Al dia
+26/07/2023,Refaccion y construccion de vivienda,40,456000,Cordoba,AA,12,7,Al dia
+19/07/2023,Viaje,46,662000,Cordoba,AA,12,8,Al dia
+26/06/2023,Viaje,41,190000,Mendoza,D,24,8,Al dia
+23/06/2023,Cambio de vehiculo,54,999999,Neuquen,B,48,9,Al dia
+22/06/2023,Cambio de vehiculo,35,400000,Buenos Aires,B,48,8,Al dia
+05/06/2023,Viaje,60,970000,Misiones,B,48,9,Al dia
+16/05/2023,Refaccion y construccion de vivienda,47,185000,Cordoba,E,24,10,Al dia
+11/05/2023,Gastos medicos,54,670000,Rio Negro,A,48,10,+60 dias
+04/05/2023,Refaccion y construccion de vivienda,48,300000,Buenos Aires,D,36,10,+90 dias
+02/05/2023,Refaccion y construccion de vivienda,56,120000,Salta,D,24,10,Al dia
+19/04/2023,Refaccion y construccion de vivienda,47,200,Buenos Aires,B,24,11,Al dia
+18/04/2023,Gastos medicos,47,300000,Buenos Aires,E,24,11,Al dia
+12/04/2023,Refaccion y construccion de vivienda,45,461000,Chubut,B,36,11,Al dia
+11/04/2023,Gastos medicos,34,440000,Buenos Aires,B,24,11,Al dia
+20/03/2023,Refaccion y construccion de vivienda,59,400000,Rio Negro,C,36,12,Al dia
+16/03/2023,Compra de equipamientos,37,417000,Ciudad de Buenos Aires,AA,48,12,Al dia
+14/03/2023,Refaccion y construccion de vivienda,34,350000,Buenos Aires,C,36,12,+30 dias
+14/03/2023,Cambio de vehiculo,52,247900,Buenos Aires,C,36,12,Al dia
+09/03/2023,Refaccion y construccion de vivienda,45,400000,Buenos Aires,D,36,11,Al dia
+06/03/2023,Celebracion,44,70000,Santa Fe,F,36,12,+180 dias
+10/02/2023,Educacion,57,310000,Ciudad de Buenos Aires,D,36,13,Al dia
+31/01/2023,Refaccion y construccion de vivienda,41,170000,Buenos Aires,D,36,13,Al dia
+30/01/2023,Refaccion y construccion de vivienda,53,150000,Cordoba,E,24,13,+180 dias
+17/01/2023,Refaccion y construccion de vivienda,22,120000,Buenos Aires,E,24,14,+180 dias
+12/01/2023,Refaccion y construccion de vivienda,42,116000,Buenos Aires,B,36,14,Al dia
+30/12/2022,Compra de equipamientos,45,350000,Santa Cruz,C,36,14,Al dia
+28/12/2022,Refaccion y construccion de vivienda,53,85000,Jujuy,F,24,14,+120 dias
+28/12/2022,Viaje,54,240000,La Pampa,AA,36,14,Al dia
+24/12/2022,Viaje,39,150000,Santa Fe,E,24,15,+30 dias
+22/12/2022,Refaccion y construccion de vivienda,34,173300,Misiones,D,36,15,Al dia
+06/12/2022,Refaccion y construccion de vivienda,37,160000,Tucuman,C,36,15,Al dia
+05/12/2022,Inicio actividad independiente,52,300000,Buenos Aires,C,36,15,Al dia
+01/12/2022,Refaccion y construccion de vivienda,39,540000,Buenos Aires,AA,48,15,Al dia
+01/12/2022,Refaccion y construccion de vivienda,44,400000,Tucuman,B,48,16,+120 dias
+17/11/2022,Refaccion y construccion de vivienda,36,300000,Ciudad de Buenos Aires,B,48,15,+180 dias
+17/11/2022,Viaje,43,130000,Santa Fe,B,36,16,+60 dias
+15/11/2022,Refaccion y construccion de vivienda,64,400000,Buenos Aires,C,36,16,+180 dias
+09/11/2022,Refaccion y construccion de vivienda,34,200000,Ciudad de Buenos Aires,AA,36,16,Al dia
+08/11/2022,Refaccion y construccion de vivienda,58,250000,Santa Fe,B,36,16,Al dia
+08/11/2022,Refaccion y construccion de vivienda,37,240000,Buenos Aires,D,36,16,+180 dias
+01/11/2022,Refaccion y construccion de vivienda,46,132000,Buenos Aires,A,36,17,Al dia
+27/10/2022,Viaje,53,235000,Santa Cruz,C,36,16,Al dia
+26/10/2022,Enlace y casamiento,40,240000,Chubut,D,36,16,+180 dias
+25/10/2022,Viaje,48,200000,Santa Fe,A,36,17,Al dia
+25/10/2022,Refaccion y construccion de vivienda,35,209000,Buenos Aires,D,36,17,Al dia
+21/10/2022,Viaje,46,200000,Corrientes,A,36,17,Al dia
+19/10/2022,Gastos medicos,42,125000,Santa Fe,C,36,17,Al dia
+13/10/2022,Gastos medicos,42,250000,Neuquen,B,48,17,+60 dias
+08/10/2022,Decoracion,49,105200,Buenos Aires,D,36,17,Al dia
+06/10/2022,Cambio de vehiculo,45,260000,Buenos Aires,B,48,17,Al dia
+23/09/2022,Educacion,39,240000,Buenos Aires,B,48,18,Al dia
+16/09/2022,Refaccion y construccion de vivienda,52,150000,Buenos Aires,A,48,18,Al dia
+12/09/2022,Refaccion y construccion de vivienda,42,210000,Santa Cruz,D,36,18,+180 dias
+08/09/2022,Educacion,42,85000,Jujuy,D,36,18,+180 dias
+06/09/2022,Refaccion y construccion de vivienda,64,176000,Buenos Aires,D,36,18,+180 dias
+06/09/2022,Refaccion y construccion de vivienda,41,750000,Ciudad de Buenos Aires,D,36,17,+180 dias
+05/09/2022,Refaccion y construccion de vivienda,44,150000,Buenos Aires,C,36,18,Al dia
+02/09/2022,Viaje,44,110000,Buenos Aires,B,36,18,+180 dias
+29/08/2022,Cambio de vehiculo,68,210000,Buenos Aires,B,48,18,Al dia
+26/08/2022,Celebracion,38,200000,Buenos Aires,E,24,18,Al dia
+24/08/2022,Cambio de vehiculo,37,110000,Buenos Aires,F,36,19,+180 dias
+22/08/2022,Refaccion y construccion de vivienda,39,90000,Misiones,D,24,19,+180 dias
+17/08/2022,Refaccion y construccion de vivienda,59,180000,Ciudad de Buenos Aires,B,48,19,Al dia
+11/08/2022,Gastos medicos,44,120000,Buenos Aires,D,36,19,Al dia
+09/08/2022,Cambio de vehiculo,29,190000,Santa Cruz,E,24,19,+180 dias
+03/08/2022,Cambio de vehiculo,38,550000,Neuquen,C,36,19,Al dia
+29/07/2022,Inversion relacionadas a locales/oficinas,36,150000,Ciudad de Buenos Aires,F,24,19,+120 dias
+26/07/2022,Cambio de vehiculo,26,190000,Buenos Aires,F,24,19,Al dia
+20/07/2022,Viaje,36,200000,Cordoba,E,24,20,+180 dias
+19/07/2022,Viaje,64,80000,Buenos Aires,D,36,20,Al dia
+18/07/2022,Compra de inventario o materias primas,58,200000,Santa Fe,C,36,20,Al dia
+01/07/2022,Mudanza,44,85000,Buenos Aires,F,24,20,+180 dias
+30/06/2022,Viaje,32,180000,Buenos Aires,F,24,20,+180 dias
+21/06/2022,Viaje,30,100000,Buenos Aires,F,24,21,+180 dias
+14/06/2022,Refaccion y construccion de vivienda,38,93000,Ciudad de Buenos Aires,D,36,21,+180 dias
+10/06/2022,Refaccion y construccion de vivienda,64,110000,Buenos Aires,D,36,21,Al dia
+08/06/2022,Celebracion,46,120000,Cordoba,D,36,21,Al dia
+07/06/2022,Refaccion y construccion de vivienda,61,160000,Buenos Aires,D,36,21,Al dia
+01/06/2022,Gastos medicos,43,70000,Cordoba,D,36,21,Al dia
+27/05/2022,Refaccion y construccion de vivienda,37,60000,Entre Rios,F,24,22,+180 dias
+12/05/2022,Refaccion y construccion de vivienda,49,300000,Buenos Aires,D,36,22,+180 dias
+11/05/2022,Refaccion y construccion de vivienda,55,90000,Buenos Aires,D,36,22,Al dia
+10/05/2022,Refaccion y construccion de vivienda,41,80000,Buenos Aires,F,24,22,Al dia
+10/05/2022,Refaccion y construccion de vivienda,70,150000,Buenos Aires,C,48,22,+180 dias
+03/05/2022,Cambio de vehiculo,60,129000,Buenos Aires,C,36,22,Al dia
+29/04/2022,Refaccion y construccion de vivienda,43,92000,Buenos Aires,F,24,22,Al dia
+26/04/2022,Celebracion,38,90000,Cordoba,E,24,22,Al dia
+26/04/2022,Cambio de vehiculo,47,140000,Buenos Aires,D,36,22,Al dia
+26/04/2022,Educacion,28,75000,Ciudad de Buenos Aires,E,24,22,Al dia
+22/04/2022,Refaccion y construccion de vivienda,43,90000,Buenos Aires,E,24,23,+180 dias
+22/04/2022,Cambio de vehiculo,39,130000,Buenos Aires,D,36,36,+180 dias
+20/04/2022,Gastos medicos,56,123000,Ciudad de Buenos Aires,C,36,23,Al dia
+12/04/2022,Prestamos Verdes - Eficiencia Energetica,43,110000,Santa Fe,B,48,23,Al dia
+11/04/2022,Refaccion y construccion de vivienda,35,95000,Santa Cruz,D,36,23,Al dia
+11/04/2022,Mudanza,33,90000,Buenos Aires,D,36,23,+180 dias
+08/04/2022,Educacion,47,200000,Buenos Aires,C,36,23,+180 dias
+07/04/2022,Cambio de vehiculo,40,160000,Chubut,D,36,23,+180 dias
+04/04/2022,Refaccion y construccion de vivienda,54,93000,Buenos Aires,D,36,23,Al dia
+31/03/2022,Viaje,36,70000,Ciudad de Buenos Aires,A,48,23,Al dia
+29/03/2022,Mudanza,35,150000,Buenos Aires,D,36,23,+180 dias
+29/03/2022,Refaccion y construccion de vivienda,39,130000,Buenos Aires,F,24,23,Al dia
+22/03/2022,Refaccion y construccion de vivienda,38,450000,Santa Fe,C,36,24,+180 dias
+21/03/2022,Mudanza,53,120000,Buenos Aires,F,24,24,+180 dias
+18/03/2022,Cambio de vehiculo,37,120000,Buenos Aires,D,36,24,Al dia
+17/03/2022,Viaje,45,130000,Buenos Aires,D,36,24,+180 dias
+15/03/2022,Refaccion y construccion de vivienda,38,150000,Mendoza,D,36,24,+180 dias
+15/03/2022,Refaccion y construccion de vivienda,57,165000,Salta,D,36,24,Al dia
+14/03/2022,Cambio de vehiculo,52,250000,Misiones,B,48,24,Al dia
+14/03/2022,Gastos medicos,42,160000,Cordoba,E,24,24,Al dia
+11/03/2022,Cambio de vehiculo,54,90000,Buenos Aires,C,36,24,Al dia
+11/03/2022,Gastos medicos,45,170000,Santa Fe,D,36,24,+180 dias
+09/03/2022,Gastos medicos,37,90000,Santa Fe,D,36,24,Al dia
+09/03/2022,Refaccion y construccion de vivienda,53,120000,Buenos Aires,D,36,24,Al dia
+09/03/2022,Refaccion y construccion de vivienda,53,107596,Santiago Del Estero,C,36,24,+180 dias
+09/03/2022,Refaccion y construccion de vivienda,46,200000,Rio Negro,D,36,24,Al dia
+04/03/2022,Refaccion y construccion de vivienda,40,100000,Buenos Aires,D,36,23,Al dia
+03/03/2022,Cambio de vehiculo,49,190000,Buenos Aires,D,36,24,+180 dias
+25/02/2022,Refaccion y construccion de vivienda,51,71000,Buenos Aires,F,24,23,Al dia
+25/02/2022,Refaccion y construccion de vivienda,43,50000,Ciudad de Buenos Aires,F,24,24,+180 dias
+25/02/2022,Inicio actividad independiente,55,75000,Salta,E,24,24,+120 dias
+18/02/2022,Compra de equipamientos,53,180000,Rio Negro,E,24,24,+180 dias
+16/02/2022,Celebracion,40,70000,Entre Rios,E,24,24,+180 dias
+14/02/2022,Cambio de vehiculo,33,90000,Ciudad de Buenos Aires,D,36,25,+180 dias
+14/02/2022,Cambio de vehiculo,57,65000,Buenos Aires,D,36,25,+180 dias
+11/02/2022,Viaje,53,70000,Buenos Aires,E,24,24,+120 dias
+10/02/2022,Refaccion y construccion de vivienda,42,120000,Mendoza,E,36,25,+180 dias
+09/02/2022,Cambio de vehiculo,42,176000,Santa Fe,C,36,25,Al dia
+08/02/2022,Educacion,50,110000,Buenos Aires,B,48,25,Al dia
+03/02/2022,Refaccion y construccion de vivienda,48,250000,Buenos Aires,C,36,25,Al dia
+03/02/2022,Gastos medicos,46,146000,Buenos Aires,D,36,25,+180 dias
+18/01/2022,Refaccion y construccion de vivienda,45,185000,Buenos Aires,C,36,26,Al dia
+11/01/2022,Educacion,50,90000,Salta,F,24,24,+180 dias
+10/01/2022,Mudanza,45,100000,Ciudad de Buenos Aires,E,24,24,+180 dias
+07/01/2022,Refaccion y construccion de vivienda,58,120000,Rio Negro,B,48,25,Al dia
+03/01/2022,Decoracion,49,160000,Buenos Aires,C,36,26,Al dia
+27/12/2021,Cambio de vehiculo,46,80000,Buenos Aires,C,36,26,Al dia
+22/12/2021,Viaje,52,190000,Santa Cruz,A,48,27,Al dia
+21/12/2021,Refaccion y construccion de vivienda,45,38000,Salta,F,18,18,+180 dias
+17/12/2021,Refaccion y construccion de vivienda,57,150000,Buenos Aires,D,36,27,Al dia
+15/12/2021,Refaccion y construccion de vivienda,41,130000,Buenos Aires,C,36,27,+180 dias
+15/12/2021,Refaccion y construccion de vivienda,39,89000,Neuquen,F,24,24,+180 dias
+14/12/2021,Refaccion y construccion de vivienda,37,75000,Buenos Aires,F,24,24,+180 dias
+14/12/2021,Cambio de vehiculo,49,130000,Buenos Aires,B,48,27,Al dia
+13/12/2021,Refaccion y construccion de vivienda,56,200000,Buenos Aires,B,48,27,+180 dias
+09/12/2021,Refaccion y construccion de vivienda,41,130000,Buenos Aires,C,36,27,Al dia
+02/12/2021,Cambio de vehiculo,46,150000,Ciudad de Buenos Aires,E,24,24,+180 dias
+29/11/2021,Refaccion y construccion de vivienda,45,260000,Santa Cruz,B,48,27,Al dia
+15/11/2021,Refaccion y construccion de vivienda,54,90000,Chubut,F,24,24,+180 dias
+10/11/2021,Refaccion y construccion de vivienda,33,90000,Buenos Aires,E,24,24,+180 dias
+08/11/2021,Refaccion y construccion de vivienda,42,170000,Buenos Aires,C,36,28,Al dia
+08/11/2021,Cambio de vehiculo,37,90000,Buenos Aires,D,36,28,+180 dias
+08/11/2021,Refaccion y construccion de vivienda,26,55000,Buenos Aires,E,24,24,+180 dias
+01/11/2021,Cambio de vehiculo,40,86000,Chubut,D,36,29,Al dia
+29/10/2021,Viaje,38,105000,Chubut,B,36,28,Al dia
+27/10/2021,Refaccion y construccion de vivienda,44,100000,Santa Cruz,B,48,28,Al dia
+25/10/2021,Refaccion y construccion de vivienda,44,100000,Misiones,AA,36,28,Al dia
+20/10/2021,Refaccion y construccion de vivienda,44,170000,Buenos Aires,C,36,29,Al dia
+18/10/2021,Cambio de vehiculo,35,100000,Salta,C,36,29,Al dia
+14/10/2021,Refaccion y construccion de vivienda,46,90000,Ciudad de Buenos Aires,D,36,29,Al dia
+12/10/2021,Refaccion y construccion de vivienda,30,250000,Neuquen,C,36,29,Al dia
+06/10/2021,Viaje,42,70000,Corrientes,AA,36,29,Al dia
+06/10/2021,Decoracion,53,150000,Ciudad de Buenos Aires,C,36,29,Al dia
+01/10/2021,Mudanza,37,60953,Corrientes,C,36,29,Al dia
+27/09/2021,Refaccion y construccion de vivienda,38,300000,Buenos Aires,C,36,29,Al dia
+21/09/2021,Cambio de vehiculo,49,270000,Misiones,A,48,29,Al dia
+21/09/2021,Otros destinos,54,50000,Ciudad de Buenos Aires,D,36,29,+60 dias
+17/09/2021,Refaccion y construccion de vivienda,38,220000,Chubut,AA,36,29,Al dia
+16/09/2021,Otros destinos,55,60000,Formosa,D,36,30,+180 dias
+07/09/2021,Refaccion y construccion de vivienda,43,77000,Buenos Aires,D,36,30,Al dia
+07/09/2021,Otros destinos,63,250000,Rio Negro,A,36,30,Al dia
+03/09/2021,Refaccion y construccion de vivienda,40,80000,Santa Fe,C,36,33,Al dia
+27/08/2021,Otros destinos,48,100000,Neuquen,C,36,30,Al dia
+24/08/2021,Refaccion y construccion de vivienda,38,95000,Buenos Aires,A,36,31,+180 dias
+17/08/2021,Otros destinos,45,38000,Buenos Aires,C,36,31,+180 dias
+17/08/2021,Otros destinos,51,80000,La Pampa,C,36,31,+180 dias
+09/08/2021,Celebracion,43,82000,Ciudad de Buenos Aires,D,36,31,Al dia
+06/08/2021,Refaccion y construccion de vivienda,56,95000,Salta,C,36,31,Al dia
+03/08/2021,Refaccion y construccion de vivienda,43,78000,Cordoba,B,36,31,Al dia
+28/07/2021,Otros destinos,45,60000,Santa Fe,B,48,31,Al dia
+16/07/2021,Otros destinos,38,90000,Buenos Aires,B,36,32,Al dia
+15/07/2021,Gastos medicos,54,80000,Cordoba,C,36,32,Al dia
+28/06/2021,Mudanza,41,38564,Mendoza,D,36,32,+180 dias
+09/06/2021,Gastos medicos,40,100000,Buenos Aires,A,48,33,Al dia
+08/06/2021,Refaccion y construccion de vivienda,47,70000,Cordoba,D,36,33,Al dia
+03/06/2021,Cambio de vehiculo,50,68000,Santa Fe,B,48,33,Al dia
+20/05/2021,Cambio de vehiculo,59,38000,Formosa,A,36,34,Al dia
+11/05/2021,Refaccion y construccion de vivienda,54,90000,Tucuman,E,24,24,+180 dias
+31/03/2021,Refaccion y construccion de vivienda,39,82000,Buenos Aires,A,48,35,Al dia
+25/03/2021,Gastos medicos,41,18000,Ciudad de Buenos Aires,F,36,35,+180 dias
+15/03/2021,Otros destinos,57,80000,Ciudad de Buenos Aires,B,48,36,Al dia
+03/03/2021,Cambio de vehiculo,50,49000,Mendoza,E,24,24,+180 dias
+02/03/2021,Refaccion y construccion de vivienda,34,60000,Buenos Aires,E,24,24,+180 dias
+19/02/2021,Gastos medicos,28,24000,Santa Fe,F,24,24,+180 dias
+11/02/2021,Otros destinos,40,62000,Buenos Aires,A,48,37,Al dia
+29/01/2021,Otros destinos,49,44000,Buenos Aires,E,24,24,+180 dias
+28/01/2021,Refaccion y construccion de vivienda,61,78000,Ciudad de Buenos Aires,C,36,36,+180 dias
+21/12/2020,Otros destinos,51,70000,Tucuman,D,36,36,+180 dias
+25/11/2020,Refaccion y construccion de vivienda,43,55000,Buenos Aires,D,36,36,Al dia
+09/10/2020,Refaccion y construccion de vivienda,66,55000,Santa Fe,B,48,41,Al dia
+03/09/2020,Educacion,43,24000,Santa Fe,D,18,18,+180 dias
+31/08/2020,Cambio de vehiculo,29,30000,Buenos Aires,E,18,18,+180 dias
+12/08/2020,Cambio de vehiculo,38,140000,Chubut,E,24,24,+180 dias
+28/04/2020,Enlace y casamiento,36,40000,Misiones,D,48,46,+180 dias
+14/04/2020,Otros destinos,65,110000,Buenos Aires,E,48,47,+180 dias
+30/03/2020,Cambio de vehiculo,43,40000,Buenos Aires,C,48,47,Al dia
+20/03/2020,Otros destinos,50,75000,Buenos Aires,C,48,47,Al dia
+16/03/2020,Otros destinos,44,21600,Neuquen,D,36,36,+180 dias
+12/03/2020,Refaccion y construccion de vivienda,57,47000,La Pampa,E,24,24,+180 dias
+11/03/2020,Refaccion y construccion de vivienda,32,60000,Buenos Aires,E,24,24,+180 dias
+19/02/2020,Otros destinos,40,30000,Corrientes,F,36,36,+180 dias
+06/02/2020,Educacion,39,45000,Buenos Aires,B,48,48,+180 dias
+24/01/2020,Cambio de vehiculo,36,20000,Santa Fe,E,36,36,+180 dias
+22/01/2020,Refaccion y construccion de vivienda,46,41000,Ciudad de Buenos Aires,F,36,36,+180 dias
+12/12/2019,Refaccion y construccion de vivienda,52,35000,T. del Fuego,F,36,36,+180 dias
+11/12/2019,Otros destinos,49,50000,Neuquen,F,36,36,+180 dias
+26/11/2019,Otros destinos,38,150000,Corrientes,E,36,36,+180 dias
+25/11/2019,Refaccion y construccion de vivienda,34,20000,Cordoba,E,36,36,+180 dias
+22/11/2019,Mudanza,40,46158,Corrientes,F,36,36,+180 dias
+20/11/2019,Refaccion y construccion de vivienda,40,73000,T. del Fuego,E,36,36,+180 dias
+07/11/2019,Refaccion y construccion de vivienda,42,40000,Ciudad de Buenos Aires,F,36,36,+180 dias
+05/11/2019,Educacion,48,36000,Buenos Aires,F,36,36,+180 dias
+25/10/2019,Otros destinos,45,25000,Buenos Aires,E,36,36,+180 dias
+21/10/2019,Cambio de vehiculo,46,34000,Buenos Aires,E,36,36,Al dia
+12/10/2019,Refaccion y construccion de vivienda,45,17000,Buenos Aires,F,24,24,+180 dias
+10/10/2019,Otros destinos,41,60000,Buenos Aires,F,36,36,+180 dias
+25/09/2019,Otros destinos,59,70000,Salta,D,36,36,+180 dias
+18/09/2019,Otros destinos,42,22500,Entre Rios,D,36,36,+180 dias
+13/09/2019,Refaccion y construccion de vivienda,47,35000,Tucuman,C,36,36,+180 dias
+13/09/2019,Otros destinos,32,29300,Buenos Aires,F,36,36,Al dia
+13/09/2019,Educacion,47,37000,Formosa,E,36,36,+180 dias
+11/09/2019,Otros destinos,62,350000,Misiones,E,36,36,+180 dias
+11/09/2019,Otros destinos,51,65000,Ciudad de Buenos Aires,D,36,36,+180 dias
+11/09/2019,Refaccion y construccion de vivienda,45,40000,Buenos Aires,C,36,36,+180 dias
+10/09/2019,Mudanza,63,20000,Buenos Aires,B,48,48,+180 dias
+29/08/2019,Refaccion y construccion de vivienda,45,70000,Buenos Aires,F,36,36,+180 dias
+28/08/2019,Otros destinos,54,56000,Cordoba,D,36,36,+180 dias
+27/08/2019,Refaccion y construccion de vivienda,39,29000,Ciudad de Buenos Aires,E,36,36,+180 dias
+14/08/2019,Educacion,42,25000,Corrientes,C,48,48,+180 dias
+08/08/2019,Mudanza,41,30000,Buenos Aires,F,48,48,+180 dias
+07/08/2019,Refaccion y construccion de vivienda,40,25000,Buenos Aires,D,48,48,+180 dias
+05/08/2019,Cambio de vehiculo,43,45000,Buenos Aires,F,48,48,+180 dias
+30/07/2019,Cambio de vehiculo,52,30000,Buenos Aires,E,36,36,+180 dias
+06/07/2019,Otros destinos,49,50000,Santa Fe,F,48,48,+180 dias
+28/06/2019,Cambio de vehiculo,49,55000,Santa Cruz,D,48,48,+180 dias
+25/06/2019,Refaccion y construccion de vivienda,62,35000,Jujuy,F,48,48,+180 dias
+19/06/2019,Cambio de vehiculo,46,30000,Formosa,B,48,48,+180 dias
+14/06/2019,Viaje,34,23000,Corrientes,F,36,36,+180 dias
+11/06/2019,Refaccion y construccion de vivienda,47,74000,La Pampa,E,48,48,+180 dias
+16/05/2019,Refaccion y construccion de vivienda,52,41000,Santa Fe,C,48,48,+180 dias
+10/05/2019,Otros destinos,40,23000,Jujuy,F,48,48,+180 dias
+09/05/2019,Otros destinos,35,33000,Ciudad de Buenos Aires,D,48,48,+180 dias
+09/05/2019,Cambio de vehiculo,49,31000,Santa Fe,E,48,48,+180 dias
+29/04/2019,Otros destinos,51,25000,Buenos Aires,F,48,48,+180 dias
+25/04/2019,Compra de equipamientos,32,28000,Santa Fe,D,48,48,+180 dias
+10/04/2019,Refaccion y construccion de vivienda,38,47000,Buenos Aires,D,48,48,+180 dias
+08/04/2019,Refaccion y construccion de vivienda,33,21000,Buenos Aires,F,48,48,+180 dias
+05/04/2019,Otros destinos,43,23000,Buenos Aires,F,48,48,+180 dias
+05/04/2019,Otros destinos,47,51000,Misiones,E,48,48,+180 dias
+04/04/2019,Refaccion y construccion de vivienda,47,20000,Santa Fe,E,48,48,+180 dias
+04/04/2019,Otros destinos,69,20500,Santa Fe,E,48,48,+180 dias
+01/04/2019,Cambio de vehiculo,48,30000,Buenos Aires,F,48,48,+180 dias
+29/03/2019,Inversion relacionadas a locales/oficinas,63,295000,Buenos Aires,E,48,48,+180 dias
+22/03/2019,Cambio de vehiculo,57,20000,Buenos Aires,D,48,48,+180 dias
+20/03/2019,Refaccion y construccion de vivienda,43,20000,Corrientes,F,48,48,+180 dias
+20/03/2019,Otros destinos,37,20000,Buenos Aires,F,48,48,+180 dias
+18/03/2019,Otros destinos,67,68000,La Pampa,D,48,48,+180 dias
+18/03/2019,Educacion,36,25000,Ciudad de Buenos Aires,F,48,48,+180 dias
+14/03/2019,Refaccion y construccion de vivienda,46,20000,Santa Fe,A,48,48,+180 dias
+06/03/2019,Otros destinos,48,53000,Chubut,D,48,48,Al dia
+12/02/2019,Viaje,30,30000,Ciudad de Buenos Aires,F,48,48,+180 dias
+11/02/2019,Celebracion,32,29488,Santa Fe,F,48,48,+180 dias
+30/01/2019,Otros destinos,32,35000,Santa Fe,B,48,48,+180 dias
+13/12/2018,Viaje,28,27730,Corrientes,F,48,48,+180 dias
+13/12/2018,Refaccion y construccion de vivienda,45,75000,Neuquen,F,48,48,+180 dias
+15/11/2018,Refaccion y construccion de vivienda,53,30000,Buenos Aires,C,48,48,+180 dias
+13/11/2018,Viaje,60,80000,Ciudad de Buenos Aires,C,48,48,+180 dias
+12/11/2018,Gastos medicos,52,30000,Cordoba,C,48,48,+180 dias
+08/11/2018,Refaccion y construccion de vivienda,51,38000,Buenos Aires,C,48,48,+180 dias
+08/11/2018,Refaccion y construccion de vivienda,64,63000,Buenos Aires,B,48,48,+180 dias
+08/11/2018,Refaccion y construccion de vivienda,30,32000,Cordoba,D,48,48,+180 dias
+30/10/2018,Refaccion y construccion de vivienda,57,180000,Cordoba,A,48,48,+180 dias
+26/10/2018,Cambio de vehiculo,45,36000,Buenos Aires,D,48,48,+180 dias
+26/10/2018,Refaccion y construccion de vivienda,49,34000,Chaco,D,36,36,+180 dias
+24/10/2018,Cambio de vehiculo,34,30000,Buenos Aires,E,48,48,+180 dias
+24/10/2018,Cambio de vehiculo,41,26000,Buenos Aires,F,48,48,+180 dias
+23/10/2018,Otros destinos,38,33000,Buenos Aires,C,48,48,+180 dias
+23/10/2018,Mudanza,29,45000,Buenos Aires,E,48,48,+180 dias
+22/10/2018,Refaccion y construccion de vivienda,32,32000,Ciudad de Buenos Aires,C,48,48,+180 dias
+19/10/2018,Otros destinos,31,35000,Buenos Aires,F,36,36,+180 dias
+18/10/2018,Otros destinos,47,25000,Buenos Aires,E,36,36,+180 dias
+18/10/2018,Refaccion y construccion de vivienda,51,39000,Buenos Aires,D,48,48,+180 dias
+16/10/2018,Cambio de vehiculo,40,45000,Ciudad de Buenos Aires,B,48,48,+180 dias
+16/10/2018,Cambio de vehiculo,51,69000,La Pampa,E,48,48,+180 dias
+10/10/2018,Refaccion y construccion de vivienda,54,66000,Buenos Aires,C,48,48,+180 dias
+10/10/2018,Refaccion y construccion de vivienda,42,49000,Buenos Aires,F,48,48,+180 dias
+10/10/2018,Refaccion y construccion de vivienda,50,50000,Entre Rios,F,48,48,+180 dias
+21/09/2018,Refaccion y construccion de vivienda,28,32487,Buenos Aires,F,48,48,+180 dias
+19/09/2018,Refaccion y construccion de vivienda,59,44000,Cordoba,E,48,48,+180 dias
+17/09/2018,Otros destinos,36,25000,Tucuman,F,48,48,+180 dias
+12/09/2018,Refaccion y construccion de vivienda,39,32000,Buenos Aires,D,48,48,+180 dias
+07/09/2018,Refaccion y construccion de vivienda,65,46000,Mendoza,D,48,48,+180 dias
+30/08/2018,Otros destinos,44,23000,Ciudad de Buenos Aires,F,36,36,+180 dias
+22/08/2018,Otros destinos,48,27000,Buenos Aires,F,36,36,+180 dias
+21/08/2018,Refaccion y construccion de vivienda,39,28000,Neuquen,D,36,36,+180 dias
+17/08/2018,Otros destinos,60,22000,Santa Fe,F,24,24,+180 dias
+13/08/2018,Refaccion y construccion de vivienda,49,35000,Cordoba,E,36,36,+180 dias
+13/08/2018,Enlace y casamiento,31,22000,Buenos Aires,F,36,36,+180 dias
+07/08/2018,Otros destinos,51,20000,Catamarca,E,36,36,+180 dias
+19/06/2018,Cambio de vehiculo,57,28000,Buenos Aires,E,36,36,+180 dias
+18/06/2018,Refaccion y construccion de vivienda,32,20000,Buenos Aires,F,36,36,+180 dias
+05/06/2018,Refaccion y construccion de vivienda,39,28000,Buenos Aires,F,36,36,+180 dias
+30/05/2018,Cambio de vehiculo,63,26000,Cordoba,E,36,36,+180 dias
+22/05/2018,Refaccion y construccion de vivienda,45,20000,Rio Negro,F,36,36,+180 dias
+11/05/2018,Otros destinos,45,40000,Ciudad de Buenos Aires,F,36,36,Al dia
+05/04/2018,Viaje,50,27000,Buenos Aires,C,36,36,+180 dias
+03/04/2018,Mudanza,57,20000,Buenos Aires,F,36,36,+180 dias
+21/03/2018,Cambio de vehiculo,54,21000,Buenos Aires,E,36,36,+180 dias
+20/03/2018,Cambio de vehiculo,68,33000,Buenos Aires,E,24,24,+180 dias
+19/03/2018,Celebracion,48,20100,Chubut,B,36,36,+180 dias
+16/03/2018,Cambio de vehiculo,34,33500,Buenos Aires,D,36,36,+180 dias
+13/03/2018,Otros destinos,28,13000,Santa Fe,E,36,36,+180 dias
+13/03/2018,Cambio de vehiculo,39,40000,Buenos Aires,E,24,24,+180 dias
+12/03/2018,Otros destinos,63,17000,Ciudad de Buenos Aires,D,36,36,+180 dias
+09/03/2018,Otros destinos,51,24000,Ciudad de Buenos Aires,F,36,36,+180 dias
+09/03/2018,Celebracion,33,20000,Buenos Aires,F,24,24,+180 dias
+09/03/2018,Otros destinos,39,18000,Buenos Aires,E,36,36,+180 dias
+07/03/2018,Refaccion y construccion de vivienda,50,12000,Chaco,F,24,24,Al dia
+07/03/2018,Otros destinos,52,26000,Rio Negro,D,24,24,+180 dias
+06/03/2018,Refaccion y construccion de vivienda,48,23851,Buenos Aires,E,36,36,+180 dias
+02/03/2018,Cambio de vehiculo,42,50000,Misiones,F,36,36,+180 dias
+28/02/2018,Consolidacion de deuda,40,7000,Santa Fe,D,36,36,+180 dias
+27/02/2018,Refaccion y construccion de vivienda,50,39000,Buenos Aires,A,48,48,+180 dias
+27/02/2018,Cambio de vehiculo,38,28000,Ciudad de Buenos Aires,A,48,48,+180 dias
+27/02/2018,Refaccion y construccion de vivienda,36,33800,Ciudad de Buenos Aires,A,48,48,+180 dias
+21/02/2018,Refaccion y construccion de vivienda,65,30900,Ciudad de Buenos Aires,F,48,48,+180 dias
+21/02/2018,Refaccion y construccion de vivienda,34,25000,Formosa,F,48,48,+180 dias
+21/02/2018,Otros destinos,68,51000,Tucuman,F,48,48,+180 dias
+20/02/2018,Viaje,54,20123,Misiones,F,48,48,+180 dias
+20/02/2018,Consolidacion de deuda,38,41000,Ciudad de Buenos Aires,F,48,48,+180 dias
+16/02/2018,Viaje,39,31000,Buenos Aires,F,48,48,+180 dias
+16/02/2018,Mudanza,38,300000,Buenos Aires,F,48,48,+180 dias
+16/02/2018,Viaje,51,19000,Cordoba,D,48,48,+180 dias
+15/02/2018,Refaccion y construccion de vivienda,46,24000,Buenos Aires,D,48,48,+180 dias
+15/02/2018,Consolidacion de deuda,37,20000,Buenos Aires,F,48,48,+180 dias
+15/02/2018,Refaccion y construccion de vivienda,40,15000,Buenos Aires,F,48,48,+180 dias
+15/02/2018,Viaje,42,34000,Santa Fe,F,48,48,+180 dias
+09/02/2018,Refaccion y construccion de vivienda,37,21000,Buenos Aires,E,48,48,+180 dias
+09/02/2018,Cambio de vehiculo,39,19000,Cordoba,F,48,48,+180 dias
+09/02/2018,Otros destinos,42,20000,Buenos Aires,D,48,48,+180 dias
+08/02/2018,Viaje,34,23000,Buenos Aires,F,48,48,+180 dias
+08/02/2018,Consolidacion de deuda,40,25500,Buenos Aires,D,48,48,+180 dias
+07/02/2018,Celebracion,48,24000,Buenos Aires,F,48,48,+180 dias
+07/02/2018,Refaccion y construccion de vivienda,56,37000,Buenos Aires,D,48,48,+180 dias
+06/02/2018,Refaccion y construccion de vivienda,40,23000,Buenos Aires,F,48,48,+180 dias
+05/02/2018,Refaccion y construccion de vivienda,34,36300,Buenos Aires,D,48,48,+180 dias
+05/02/2018,Cambio de vehiculo,60,24000,Cordoba,F,48,48,+180 dias
+02/02/2018,Refaccion y construccion de vivienda,56,40000,Buenos Aires,F,48,48,+180 dias
+01/02/2018,Refaccion y construccion de vivienda,53,16000,Cordoba,D,48,48,+180 dias
+30/01/2018,Inversion relacionadas a locales/oficinas,53,30000,Formosa,E,48,48,+180 dias
+30/01/2018,Refaccion y construccion de vivienda,48,33000,Ciudad de Buenos Aires,F,48,48,+180 dias
+30/01/2018,Viaje,51,25000,Chaco,F,48,48,+180 dias
+29/01/2018,Consolidacion de deuda,48,16500,Entre Rios,F,48,48,+180 dias
+29/01/2018,Otros destinos,54,52000,Ciudad de Buenos Aires,F,48,48,+180 dias
+26/01/2018,Otros destinos,46,20000,Formosa,F,48,48,+180 dias
+25/01/2018,Otros destinos,38,25000,Buenos Aires,E,48,48,+180 dias
+19/01/2018,Consolidacion de deuda,46,36000,Cordoba,F,48,48,+180 dias
+19/01/2018,Refaccion y construccion de vivienda,56,13000,Buenos Aires,C,48,48,Al dia
+19/01/2018,Educacion,36,18000,Buenos Aires,E,48,48,+180 dias
+18/01/2018,Cambio de vehiculo,42,21900,Buenos Aires,AA,48,48,+180 dias
+16/01/2018,Otros destinos,41,19857,Buenos Aires,F,48,48,+180 dias
+10/01/2018,Decoracion,45,21600,Buenos Aires,F,48,48,+180 dias
+09/01/2018,Otros destinos,36,14000,Santa Fe,D,48,48,+180 dias
+04/01/2018,Refaccion y construccion de vivienda,50,30000,Buenos Aires,E,48,48,+180 dias
+04/01/2018,Refaccion y construccion de vivienda,35,32355,Ciudad de Buenos Aires,D,48,48,+180 dias
+14/02/2017,Consolidacion de deuda,33,18000,Cordoba,E,48,48,+180 dias
