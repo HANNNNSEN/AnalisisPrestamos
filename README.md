@@ -6,12 +6,12 @@ Metodología:
 
 Se utilizará un algoritmo de Machine Learning para analizar los datos de la cartera y crear un modelo predictivo que ayude a determinar la probabilidad de que un préstamo se pague a tiempo. El modelo se entrenará con variables como:
 
-Perfil del inversor (AA-F)
-Plazo del préstamo (3-48 meses)
-Lugar de residencia (Argenitna)
-Sueldo (en pesos pero lo pasaremos a dolares a cada valor mep)
-Destino del crédito
-Edad del solicitante
+Perfil del inversor (AA-F)\n
+Plazo del préstamo (3-48 meses)\n
+Lugar de residencia (Argenitna)\n
+Sueldo (en pesos pero lo pasaremos a dolares a cada valor mep)\n
+Destino del crédito\n
+Edad del solicitante\n
 Historial de pagos del solicitante de mi cartera personal de 406 prestamos
 
 
