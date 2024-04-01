@@ -1,3 +1,5 @@
+Ejercicio para aplicar conocimientos adquiridos 
+
 Introducción:
 
 Este análisis se basa en una cartera personal de 406 préstamos iniciada en 2017 en una plataforma de préstamos conocida de Latinoamérica. La plataforma se basa en el mercado de préstamos de Latinoamérica que tiene como objetivo fomentar créditos de manera directa entre solicitantes e inversores.
